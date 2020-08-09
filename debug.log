@@ -1,0 +1,25 @@
+[0729/124534.053:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0729/124654.998:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0729/125604.618:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0729/133229.629:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0729/133523.540:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0729/202329.260:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0730/165821.422:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0730/170002.482:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0730/171002.484:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0730/171002.485:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0730/171502.484:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0730/173002.495:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0809/125956.082:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0809/131204.019:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0809/173308.305:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0809/174308.311:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0809/174308.311:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0809/174542.330:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0809/174808.389:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0809/180459.662:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0809/181114.962:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0809/182533.972:ERROR:process_reader_win.cc(123)] NtOpenThread: {Отказано в доступе} Процесс запросил доступ к объекту, но права на доступ не предоставлены. (0xc0000022)
+[0809/182534.148:ERROR:exception_snapshot_win.cc(98)] thread ID 3160 not found in process
+[0809/183805.296:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0809/190935.427:ERROR:crash_report_database_win.cc(469)] failed to stat report

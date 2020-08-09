@@ -1,0 +1,551 @@
+@media screen and (max-width:1199px) {
+    .container {
+        width: 100%
+    }
+    .topphone {
+        font-size: 18px;
+    }
+    .grafic {
+        font-size: 11px;
+    }
+    .contacttop {
+        
+        text-align: center;
+        width: 100%;
+        margin-left: 0;
+        margin-top: -6px;
+        margin-bottom: -15px;
+        padding-top: 12px;
+        padding-bottom: 12px;
+    }
+    h1 {
+        font-size: 47px;
+    }
+    .subh1 {
+        font-size: 16px;
+    }
+    .topzayavka {
+        background-color: #fcfcfc;
+        box-shadow: 0px 12px 32px 0px rgba(224, 224, 224, 0.86);
+        padding: 25px;
+        width: 100%;
+        margin-left: 0;
+        margin-top: 30px;
+        text-align: center;
+        padding-bottom: 10px;
+    }
+    .orcallus {
+        width: 100%;
+        margin-left: 0;
+        background-color: #ff8400;
+        text-align: center;
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+    .preim_wrp i {
+        color: #1b54a1;
+        font-size: 54px;
+        display: block;
+        margin: 0;
+    }
+    .preim_wrp p {
+        font-size: 17px;
+        color: #0e0e0e;
+        text-transform: uppercase;
+        margin-top: 22px;
+    }
+    .preim_wrp span {
+        font-size: 14px;
+        color: #0e0e0e;
+        line-height: 1.3;
+        display: block;
+    }
+    h2 {
+        font-size: 29px;
+    }
+    .divheader {
+        background-color: #ff8400;
+        font-family: 'MullerBold';
+        color: #fff!important;
+        font-size: 14px;
+        text-transform: uppercase;
+    }
+    .divheader span {
+        font-size: 11px;
+    }
+    .divTable {
+        font-size: 13px;
+    }
+    .about_wrap p {
+        font-size: 17px;
+    }
+    .three {
+        overflow: hidden
+    }
+    .gramota_wrp {
+        zoom: 88%
+    }
+}
+
+@media screen and (max-width:991px) {
+    .desription_phone {
+        display: block;
+    }
+    .destop_desription {
+        display: none;
+    }
+    .tittle_company {
+        font-size: 68px;
+        margin-bottom: 60px;
+    }
+    .section--hero {
+        background-image: url(../images/bg-hero-small.jpg);
+    }
+    .nopadl {
+        padding-left: 15px;
+    }
+    .article--hero {
+        margin-left: 0 !important;
+    }
+    .nopadr {
+        padding-right: 15px;
+    }
+    .mobc {
+        text-align: center!important;
+    }
+    .one {
+        margin-top: 0;
+        background-size: contain;
+        background-position: 0% 2%;
+         margin-top: 70px;
+    }
+    header {
+        position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%!important;
+    background-color: #fff;
+    z-index: 100;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    }
+    .contacttop {
+        background-color: #ff8400;
+        text-align: center;
+        width: 100%;
+        margin-left: 0;
+        margin-top: 15px;
+        margin-bottom: -13px;
+        padding-top: 12px;
+        padding-bottom: 12px;
+    }
+    header {
+        text-align: center
+    }
+    h1 {
+        font-size: 22px;
+        text-align: center;
+        margin-top: 0px;
+    }
+	.stop2 {display:none;}
+	.mulheavy2 {
+    font-family: 'MullerHeavy'; font-size:30px;
+}
+    .subh1 {
+        font-size: 12px;
+        text-align: center;
+    }
+    .backosm {
+        background: rgba(255, 255, 255, 0.55);
+        padding: 12px 0px;
+        
+    }
+    .topnav li.active a {
+        color: #000!Important;
+        background-color: transparent;
+        text-decoration: none!important;
+        padding: 3px 4px;
+    }
+    .preim_wrp i {
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .topzayavka {
+        padding: 15px;
+    }
+    .topzayavka > p {
+        font-size: 18px;
+    }
+    .preim_wrp {
+        text-align: center
+    }
+    .zakaz {
+        font-size: 15px;
+    }
+    h2 {
+        font-size: 22px;
+        text-align: center;
+    }
+    h2::after {
+        content: '';
+        display: block;
+        width: 70px;
+        margin-top: 8px;
+        height: 4px;
+        background-color: #ff8400;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .divTable,
+    .divheader {
+        font-size: 11px;
+    }
+    .divTableCell,
+    .divTableHead {
+        border-bottom: 1px solid #f2f2f2;
+        display: table-cell;
+        padding: 7px 9px;
+        vertical-align: middle;
+    }
+    .divheader span {
+        font-size: 9px;
+    }
+    header .contacttop {
+        padding: 0!important;
+        margin: 0!important;
+        width: 100%!important;
+        background: none!important;
+        margin-top: 15px!important;
+        text-align: right;
+        width: 36px!important;
+        margin-right: 10px !important;
+        display: inline-block;
+        vertical-align: middle;
+    }
+    .scrollogoo {
+        display: block
+    }
+    .mobright {
+        text-align: right
+    }
+    .mobleft {
+        text-align: left
+    }
+    .onlymob {
+        display: block
+    }
+    header .onlymob {
+        display: inline-block;
+        vertical-align: middle;
+        margin-top: 15px;
+    }
+    .nomob {
+        display: none
+    }
+    .row.mobowl {
+        margin-left: 0;
+        margin-right: 0;
+    }
+    .downloadFile {
+        display: inline-block;
+        width: 100%;
+        max-width: 300px;
+        text-align: center;
+        color: #fff!important;
+        text-decoration: none!important;
+        line-height: 50px;
+        display: block;
+        margin: 0 auto;
+        margin-top: 27px;
+    }
+    header .topphone {
+        color: #000!important;
+        font-size: 25px;
+        width: 34px;
+        overflow: hidden;
+        display: flex;
+        height: 25px;
+        margin-left: auto;
+    }
+    header .grafic {
+        display: none
+    }
+    .button-label {
+        display: inline-block;
+        font-size: 11px;
+        color: #999999;
+        background-color: #fff;
+        border-radius: 3px;
+        border: 1px solid #aeaeae;
+        -webkit-transition: 0.3s;
+        width: calc(34% - 12px);
+        transition: 0.3s;
+        -webkit-user-select: none;
+        margin: 3px;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        cursor: pointer;
+        text-transform: uppercase;
+        user-select: none;
+    }
+    .divTable {
+        margin-bottom: 25px;
+    }
+    .calcpunkt {
+        font-size: 13px;
+        color: #000000;
+        text-transform: uppercase;
+        line-height: 1;
+        margin-bottom: 15px;
+        text-align: center;
+    }
+    
+    .calcform .stop {
+        display: none
+    }
+    .slider-input {
+        background: none;
+        border: none;
+        font-size: 16px;
+        color: #000000;
+        text-align: center;
+        border-style: solid;
+        border-width: 1px;
+        border-color: rgb(27, 84, 161);
+        border-radius: 3px;
+        background-color: #fff;
+        width: 79px;
+        height: 38px;
+        position: relative;
+        right: 0;
+        top: 0;
+        width: 100%;
+        /* max-width: 500px; */
+        /* margin: 0 auto; */
+    }
+    .forma_body > div {
+        float: none;
+        width: 100%;
+        margin-right: 0;
+        margin-bottom: 10px;
+        text-align: center;
+    }
+    .forma_body > div span {
+        text-align: center
+    }
+    .allforma .orcallus > p {
+        display: block
+    }
+    .about_wrap {
+        position: relative;
+        overflow: hidden;
+        text-align: center;
+        margin-bottom: 15px;
+    }
+    h3 {
+        font-size: 13px;
+        color: #0e0e0e;
+        position: relative;
+        margin: 0;
+        margin-top: 50px;
+        line-height: 1;
+        text-transform: uppercase;
+        margin-bottom: 30px;
+        text-align: center
+    }
+    h3::after {
+        content: '';
+        display: block;
+        width: 70px;
+        margin-top: 8px;
+        height: 4px;
+        background-color: #ff8400;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .four {
+        text-align: center
+    }
+    .proces_wrp > div {
+        margin: 0 auto;
+        margin-top: 15px;
+    }
+    section {
+        padding-top: 20px !important;
+        padding-bottom: 20px !important;
+    }
+    .descript_beton > div:nth-child(1) {
+        font-size: 18px;
+        line-height: 1;
+        color: #fff;
+        font-family: 'MullerBold';
+        background-color: #ff8400;
+        padding-left: 16px;
+        padding-right: 16px;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        text-transform: uppercase;
+    }
+    .descript_beton p {
+        margin: 0;
+        padding: 15px;
+        font-size: 13px;
+        color: #000000;
+        font-weight: 300;
+        line-height: 1.4;
+    }
+    .contfoot {
+        background-color: #fff;
+        height: auto;
+        padding-top: 40px;
+        padding-left: 35px;
+        padding-right: 35px;
+        padding: 15px;
+        padding-top: 30px;
+    }
+    .container {
+        max-width: 550px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .contfoot .zakaz {
+        width: 100%;
+    }
+    .mapa {
+        height: 200px !important;
+    }
+    .modal_form_wrp .topzayavka {
+        background-color: #fcfcfc;
+        box-shadow: 0px 12px 32px 0px rgba(224, 224, 224, 0.86);
+        padding: 25px;
+        width: 100%;
+        margin-left: 62px;
+        margin-top: 30px;
+        text-align: center;
+        padding-bottom: 10px;
+        margin: 0 auto;
+        max-width: 100%;
+    }
+    .modal_form_wrp .orcallus {
+        width: 330px;
+        margin-left: 62px;
+        background-color: #ff8400;
+        text-align: center;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        margin: 0 auto;
+        width: 100%;
+    }
+    .close_modal {
+        position: absolute;
+        right: 15px;
+        top: 15px;
+        cursor: pointer;
+    }
+    .politika_wrp {
+        background-color: #fff;
+        box-shadow: 0px 13px 43px 0px rgba(0, 0, 0, 0.1);
+        position: relative;
+        padding-left: 30px;
+        padding-right: 30px;
+        padding-top: 35px;
+        padding-bottom: 35px;
+        padding: 15px;
+    }
+    .section--hero {
+        padding-top: 130px !important;
+        padding-bottom: 20px !important;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .article--hero .form_input-row {
+        width: 100%;
+    }
+    .form_btn {
+        width: 100%;
+    }
+    .list--features {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+    }
+    .list_item {
+        width: 50%;
+        text-align: center;
+    }
+    .topzayavka__container {
+        width: 100%;
+    }
+    .main__section__content {
+        justify-content: center;
+    }
+}
+
+@media (min-width: 768px) {
+    .modal-dialog {
+        margin: 150px auto;
+    }
+    
+}
+
+@media screen and (max-width:768px) {
+    .tittle_company {
+        font-size: 68px;
+        margin-bottom: 40px;
+    }
+    .modal-dialog {
+        margin: 0;
+        margin-top: 50%;
+        transform: translateY(-25%) !important;
+    }
+    .section--hero {
+        padding-top: 60px !important;
+        background-image: url(../images/bg-hero-phone.jpg);
+    }
+    .logo {
+        width: 149px;
+    }
+    header .contacttop {
+        margin-top: 5px !important;
+    }
+    header .onlymob {
+        margin-top: 5px !important;
+    }
+    .form_btn {
+        width: 100%;
+    }
+    .form_cont {
+        width: 100%;
+    }
+    .article_title--big {
+        font-size: 2rem;
+    }
+    .form_btn {
+        min-width: auto;
+    }
+    .padding {
+        padding: 0;
+    }
+    .scrollogoo {
+        width: 33%;
+    }
+    .logo_span {
+        font-size: 17px;
+        margin-right: auto;
+        color: #0e0e0e;
+        font-family: 'Russo One', sans-serif;
+        font-weight: 900;
+    }
+    .logo {
+        width: 66px;
+    }
+}
+
+@media screen and (max-width:580px) {
+
+    .tittle_company {
+        font-size: 4rem;
+    }
+}
